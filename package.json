@@ -1,0 +1,11 @@
+{
+  "name": "constellations-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "import": "node --env-file=.env scripts/import.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}

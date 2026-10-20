@@ -1,0 +1,802 @@
+{
+  "description": "The 88 IAU constellations, classified by primary celestial hemisphere (by IAU sky quadrant). Constellations flagged crosses_celestial_equator extend into both hemispheres.",
+  "total": 88,
+  "counts": {
+    "northern": 35,
+    "southern": 53
+  },
+  "constellations": [
+    {
+      "name": "Andromeda",
+      "abbreviation": "And",
+      "meaning": "Chained Princess",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpheratz"
+    },
+    {
+      "name": "Antlia",
+      "abbreviation": "Ant",
+      "meaning": "Air Pump",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Antliae"
+    },
+    {
+      "name": "Apus",
+      "abbreviation": "Aps",
+      "meaning": "Bird of Paradise",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Apodis"
+    },
+    {
+      "name": "Aquarius",
+      "abbreviation": "Aqr",
+      "meaning": "Water Bearer",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": true,
+      "zodiac": true,
+      "brightest_star": "Sadalsuud"
+    },
+    {
+      "name": "Aquila",
+      "abbreviation": "Aql",
+      "meaning": "Eagle",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Altair"
+    },
+    {
+      "name": "Ara",
+      "abbreviation": "Ara",
+      "meaning": "Altar",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Beta Arae"
+    },
+    {
+      "name": "Aries",
+      "abbreviation": "Ari",
+      "meaning": "Ram",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": true,
+      "brightest_star": "Hamal"
+    },
+    {
+      "name": "Auriga",
+      "abbreviation": "Aur",
+      "meaning": "Charioteer",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Capella"
+    },
+    {
+      "name": "Boötes",
+      "abbreviation": "Boo",
+      "meaning": "Herdsman",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Arcturus"
+    },
+    {
+      "name": "Caelum",
+      "abbreviation": "Cae",
+      "meaning": "Chisel",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Caeli"
+    },
+    {
+      "name": "Camelopardalis",
+      "abbreviation": "Cam",
+      "meaning": "Giraffe",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Beta Camelopardalis"
+    },
+    {
+      "name": "Cancer",
+      "abbreviation": "Cnc",
+      "meaning": "Crab",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": true,
+      "brightest_star": "Al Tarf"
+    },
+    {
+      "name": "Canes Venatici",
+      "abbreviation": "CVn",
+      "meaning": "Hunting Dogs",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Cor Caroli"
+    },
+    {
+      "name": "Canis Major",
+      "abbreviation": "CMa",
+      "meaning": "Greater Dog",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Sirius"
+    },
+    {
+      "name": "Canis Minor",
+      "abbreviation": "CMi",
+      "meaning": "Lesser Dog",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Procyon"
+    },
+    {
+      "name": "Capricornus",
+      "abbreviation": "Cap",
+      "meaning": "Sea Goat",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": true,
+      "brightest_star": "Deneb Algedi"
+    },
+    {
+      "name": "Carina",
+      "abbreviation": "Car",
+      "meaning": "Keel",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Canopus"
+    },
+    {
+      "name": "Cassiopeia",
+      "abbreviation": "Cas",
+      "meaning": "Seated Queen",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Schedar"
+    },
+    {
+      "name": "Centaurus",
+      "abbreviation": "Cen",
+      "meaning": "Centaur",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Rigil Kentaurus (Alpha Centauri)"
+    },
+    {
+      "name": "Cepheus",
+      "abbreviation": "Cep",
+      "meaning": "King",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alderamin"
+    },
+    {
+      "name": "Cetus",
+      "abbreviation": "Cet",
+      "meaning": "Sea Monster (Whale)",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Diphda"
+    },
+    {
+      "name": "Chamaeleon",
+      "abbreviation": "Cha",
+      "meaning": "Chameleon",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Chamaeleontis"
+    },
+    {
+      "name": "Circinus",
+      "abbreviation": "Cir",
+      "meaning": "Compass",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Circini"
+    },
+    {
+      "name": "Columba",
+      "abbreviation": "Col",
+      "meaning": "Dove",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Phact"
+    },
+    {
+      "name": "Coma Berenices",
+      "abbreviation": "Com",
+      "meaning": "Berenice's Hair",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Beta Comae Berenices"
+    },
+    {
+      "name": "Corona Australis",
+      "abbreviation": "CrA",
+      "meaning": "Southern Crown",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Meridiana (Alpha Coronae Australis)"
+    },
+    {
+      "name": "Corona Borealis",
+      "abbreviation": "CrB",
+      "meaning": "Northern Crown",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alphecca"
+    },
+    {
+      "name": "Corvus",
+      "abbreviation": "Crv",
+      "meaning": "Crow",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Gienah"
+    },
+    {
+      "name": "Crater",
+      "abbreviation": "Crt",
+      "meaning": "Cup",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Delta Crateris"
+    },
+    {
+      "name": "Crux",
+      "abbreviation": "Cru",
+      "meaning": "Southern Cross",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Acrux"
+    },
+    {
+      "name": "Cygnus",
+      "abbreviation": "Cyg",
+      "meaning": "Swan",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Deneb"
+    },
+    {
+      "name": "Delphinus",
+      "abbreviation": "Del",
+      "meaning": "Dolphin",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Rotanev"
+    },
+    {
+      "name": "Dorado",
+      "abbreviation": "Dor",
+      "meaning": "Swordfish (Dolphinfish)",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Doradus"
+    },
+    {
+      "name": "Draco",
+      "abbreviation": "Dra",
+      "meaning": "Dragon",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Eltanin"
+    },
+    {
+      "name": "Equuleus",
+      "abbreviation": "Equ",
+      "meaning": "Little Horse",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Kitalpha"
+    },
+    {
+      "name": "Eridanus",
+      "abbreviation": "Eri",
+      "meaning": "River Eridanus",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Achernar"
+    },
+    {
+      "name": "Fornax",
+      "abbreviation": "For",
+      "meaning": "Furnace",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Dalim"
+    },
+    {
+      "name": "Gemini",
+      "abbreviation": "Gem",
+      "meaning": "Twins",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": true,
+      "brightest_star": "Pollux"
+    },
+    {
+      "name": "Grus",
+      "abbreviation": "Gru",
+      "meaning": "Crane",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alnair"
+    },
+    {
+      "name": "Hercules",
+      "abbreviation": "Her",
+      "meaning": "Hercules",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Kornephoros"
+    },
+    {
+      "name": "Horologium",
+      "abbreviation": "Hor",
+      "meaning": "Pendulum Clock",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Horologii"
+    },
+    {
+      "name": "Hydra",
+      "abbreviation": "Hya",
+      "meaning": "Water Snake (Female)",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Alphard"
+    },
+    {
+      "name": "Hydrus",
+      "abbreviation": "Hyi",
+      "meaning": "Lesser Water Snake (Male)",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Beta Hydri"
+    },
+    {
+      "name": "Indus",
+      "abbreviation": "Ind",
+      "meaning": "Indian",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Indi"
+    },
+    {
+      "name": "Lacerta",
+      "abbreviation": "Lac",
+      "meaning": "Lizard",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Lacertae"
+    },
+    {
+      "name": "Leo",
+      "abbreviation": "Leo",
+      "meaning": "Lion",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": true,
+      "zodiac": true,
+      "brightest_star": "Regulus"
+    },
+    {
+      "name": "Leo Minor",
+      "abbreviation": "LMi",
+      "meaning": "Lesser Lion",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Praecipua"
+    },
+    {
+      "name": "Lepus",
+      "abbreviation": "Lep",
+      "meaning": "Hare",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Arneb"
+    },
+    {
+      "name": "Libra",
+      "abbreviation": "Lib",
+      "meaning": "Scales",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": true,
+      "brightest_star": "Zubeneschamali"
+    },
+    {
+      "name": "Lupus",
+      "abbreviation": "Lup",
+      "meaning": "Wolf",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Lupi"
+    },
+    {
+      "name": "Lynx",
+      "abbreviation": "Lyn",
+      "meaning": "Lynx",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Lyncis"
+    },
+    {
+      "name": "Lyra",
+      "abbreviation": "Lyr",
+      "meaning": "Lyre",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Vega"
+    },
+    {
+      "name": "Mensa",
+      "abbreviation": "Men",
+      "meaning": "Table Mountain",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Mensae"
+    },
+    {
+      "name": "Microscopium",
+      "abbreviation": "Mic",
+      "meaning": "Microscope",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Gamma Microscopii"
+    },
+    {
+      "name": "Monoceros",
+      "abbreviation": "Mon",
+      "meaning": "Unicorn",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Beta Monocerotis"
+    },
+    {
+      "name": "Musca",
+      "abbreviation": "Mus",
+      "meaning": "Fly",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Muscae"
+    },
+    {
+      "name": "Norma",
+      "abbreviation": "Nor",
+      "meaning": "Carpenter's Square",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Gamma2 Normae"
+    },
+    {
+      "name": "Octans",
+      "abbreviation": "Oct",
+      "meaning": "Octant",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Nu Octantis"
+    },
+    {
+      "name": "Ophiuchus",
+      "abbreviation": "Oph",
+      "meaning": "Serpent Bearer",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Rasalhague"
+    },
+    {
+      "name": "Orion",
+      "abbreviation": "Ori",
+      "meaning": "Hunter",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Rigel"
+    },
+    {
+      "name": "Pavo",
+      "abbreviation": "Pav",
+      "meaning": "Peacock",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Peacock (Alpha Pavonis)"
+    },
+    {
+      "name": "Pegasus",
+      "abbreviation": "Peg",
+      "meaning": "Winged Horse",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Enif"
+    },
+    {
+      "name": "Perseus",
+      "abbreviation": "Per",
+      "meaning": "Hero Perseus",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Mirfak"
+    },
+    {
+      "name": "Phoenix",
+      "abbreviation": "Phe",
+      "meaning": "Phoenix",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Ankaa"
+    },
+    {
+      "name": "Pictor",
+      "abbreviation": "Pic",
+      "meaning": "Painter's Easel",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Pictoris"
+    },
+    {
+      "name": "Pisces",
+      "abbreviation": "Psc",
+      "meaning": "Fishes",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": true,
+      "zodiac": true,
+      "brightest_star": "Alpherg (Eta Piscium)"
+    },
+    {
+      "name": "Piscis Austrinus",
+      "abbreviation": "PsA",
+      "meaning": "Southern Fish",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Fomalhaut"
+    },
+    {
+      "name": "Puppis",
+      "abbreviation": "Pup",
+      "meaning": "Stern",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Naos"
+    },
+    {
+      "name": "Pyxis",
+      "abbreviation": "Pyx",
+      "meaning": "Mariner's Compass",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Pyxidis"
+    },
+    {
+      "name": "Reticulum",
+      "abbreviation": "Ret",
+      "meaning": "Reticle",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Reticuli"
+    },
+    {
+      "name": "Sagitta",
+      "abbreviation": "Sge",
+      "meaning": "Arrow",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Gamma Sagittae"
+    },
+    {
+      "name": "Sagittarius",
+      "abbreviation": "Sgr",
+      "meaning": "Archer",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": true,
+      "brightest_star": "Kaus Australis"
+    },
+    {
+      "name": "Scorpius",
+      "abbreviation": "Sco",
+      "meaning": "Scorpion",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": true,
+      "brightest_star": "Antares"
+    },
+    {
+      "name": "Sculptor",
+      "abbreviation": "Scl",
+      "meaning": "Sculptor",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Sculptoris"
+    },
+    {
+      "name": "Scutum",
+      "abbreviation": "Sct",
+      "meaning": "Shield",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Scuti"
+    },
+    {
+      "name": "Serpens",
+      "abbreviation": "Ser",
+      "meaning": "Serpent",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Unukalhai"
+    },
+    {
+      "name": "Sextans",
+      "abbreviation": "Sex",
+      "meaning": "Sextant",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": true,
+      "zodiac": false,
+      "brightest_star": "Alpha Sextantis"
+    },
+    {
+      "name": "Taurus",
+      "abbreviation": "Tau",
+      "meaning": "Bull",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": true,
+      "zodiac": true,
+      "brightest_star": "Aldebaran"
+    },
+    {
+      "name": "Telescopium",
+      "abbreviation": "Tel",
+      "meaning": "Telescope",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Telescopii"
+    },
+    {
+      "name": "Triangulum",
+      "abbreviation": "Tri",
+      "meaning": "Triangle",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Beta Trianguli"
+    },
+    {
+      "name": "Triangulum Australe",
+      "abbreviation": "TrA",
+      "meaning": "Southern Triangle",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Atria"
+    },
+    {
+      "name": "Tucana",
+      "abbreviation": "Tuc",
+      "meaning": "Toucan",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alpha Tucanae"
+    },
+    {
+      "name": "Ursa Major",
+      "abbreviation": "UMa",
+      "meaning": "Great Bear",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Alioth"
+    },
+    {
+      "name": "Ursa Minor",
+      "abbreviation": "UMi",
+      "meaning": "Little Bear",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Polaris"
+    },
+    {
+      "name": "Vela",
+      "abbreviation": "Vel",
+      "meaning": "Sails",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Gamma Velorum (Regor)"
+    },
+    {
+      "name": "Virgo",
+      "abbreviation": "Vir",
+      "meaning": "Maiden",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": true,
+      "zodiac": true,
+      "brightest_star": "Spica"
+    },
+    {
+      "name": "Volans",
+      "abbreviation": "Vol",
+      "meaning": "Flying Fish",
+      "primary_hemisphere": "southern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Beta Volantis"
+    },
+    {
+      "name": "Vulpecula",
+      "abbreviation": "Vul",
+      "meaning": "Fox",
+      "primary_hemisphere": "northern",
+      "crosses_celestial_equator": false,
+      "zodiac": false,
+      "brightest_star": "Anser"
+    }
+  ]
+}
